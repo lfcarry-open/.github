@@ -1,18 +1,20 @@
-# LFcarry Open Data
+# LFCarry
 
-Open datasets and tools from the [LFcarry](https://lfcarry.com) pro-analytics team — the numbers behind the
-tier lists, rotation trackers and rank guides on lfcarry.com, published as CSV/JSON so anyone can check them,
-chart them or build on them.
+Public gaming resources and open-data projects from [LFCarry](https://lfcarry.com).
 
-| dataset | what | cadence |
-|---|---|---|
-| [apex-legends-pick-rates](https://github.com/lfcarry-open/apex-legends-pick-rates) | pick share of all 28 Apex Legends legends per rank board (Bronze → Predator) since June 2026, plus a 7-day movement contract | daily |
-| destiny-2-weekly-rotation *(coming)* | raid / dungeon / GM rotation per weekly reset, machine-readable | weekly |
-| wow-mythic-plus-weeks *(coming)* | Mythic+ affix weeks and dungeon rotation | weekly |
+LFCarry provides gaming carries, boosting and coaching services. This organization hosts public resources, not the storefront's private application code. We are not affiliated with the game publishers whose games our resources discuss.
 
-About the company: LFcarry is the marketplace where players hire professional gamers — boosting, carries, coaching
-and a personal assistant for 40+ games — founded 2016 as LegionFarm (Y Combinator W20). Pro players work with us
-through [LF.pro](https://lf.pro). Questions: dev@seo.lfcarry.com.
+## For players
 
-Licenses: derived series CC BY 4.0 unless a repository says otherwise; underlying figures belong to their sources
-(e.g. Apex Legends Status, Bungie), credited in each README.
+- [LFCarry official website](https://lfcarry.com): current services and product information.
+- [Player Resource Center](https://sites.google.com/view/lfcarry-player-resources): a practical checklist for setting a session goal, planning a group and protecting account information.
+- [LFCarry guides](https://lfcarry.com/guides): game-specific guides and explainers.
+
+## For developers and data readers
+
+- [Open-data portal](https://lfcarry-open.github.io/): project descriptions and links.
+- [Apex Legends pick rates](https://github.com/lfcarry-open/apex-legends-pick-rates): public pick-share files and methodology. Read the repository's source notes and timestamps before interpreting or reusing a snapshot. A historical sample is not a live population census.
+
+Source attribution and reuse conditions belong to each repository. Listing a planned dataset is not the same as publishing it. Only available projects are linked above.
+
+Brand spelling: LFCarry. Official website: https://lfcarry.com.
