@@ -2,7 +2,7 @@
 
 Public gaming resources and open-data projects from [LFCarry](https://lfcarry.com).
 
-LFCarry provides gaming carries, boosting and coaching services. This organization hosts public resources, not the storefront's private application code. We are not affiliated with the game publishers whose games our resources discuss.
+LFCarry provides gaming carries, boosting and coaching services. This organization hosts LFCarry's public resources. LFCarry operates independently of the game publishers discussed in these resources.
 
 ## For players
 
@@ -13,8 +13,8 @@ LFCarry provides gaming carries, boosting and coaching services. This organizati
 ## For developers and data readers
 
 - [Open-data portal](https://lfcarry-open.github.io/): project descriptions and links.
-- [Apex Legends pick rates](https://github.com/lfcarry-open/apex-legends-pick-rates): public pick-share files and methodology. Read the repository's source notes and timestamps before interpreting or reusing a snapshot. A historical sample is not a live population census.
+- [Apex Legends pick rates](https://github.com/lfcarry-open/apex-legends-pick-rates): public pick-share files and methodology. Check each snapshot's source notes, timestamps and population before reuse.
 
-Source attribution and reuse conditions belong to each repository. Listing a planned dataset is not the same as publishing it. Only available projects are linked above.
+Source attribution and reuse conditions belong to each repository. The links above lead to available projects.
 
 Brand spelling: LFCarry. Official website: https://lfcarry.com.
